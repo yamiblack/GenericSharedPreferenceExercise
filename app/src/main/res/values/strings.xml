@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PrefTest</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="is_student">is Student?</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+</resources>
